@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="New Engine Productions" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <code>Newenginestudios@gmail.com</code>
         </p>
       </main>
 
